@@ -1,0 +1,92 @@
+[
+    {
+        "question": "She ____ a doctor.",
+        "options": ["are", "is", "have", "am"],
+        "correct": 1,
+        "sec": 10
+    },
+    {
+        "question": "I ____ hungry.",
+        "options": ["am", "is", "are", "be"],
+        "correct": 0,
+        "sec": 4
+    },
+    {
+        "question": "They ____ from France.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 1,
+        "sec": 15
+    },
+    {
+        "question": "He ____ playing tennis.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 0,
+        "sec": 1
+    },
+    {
+        "question": "We ____ happy.",
+        "options": ["am", "is", "are", "be"],
+        "correct": 2,
+        "sec": 10
+    },
+    {
+        "question": "You ____ my best friend.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 1,
+        "sec": 5
+    },
+    {
+        "question": "She ____ in London.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 0,
+        "sec": 20
+    },
+    {
+        "question": "They ____ at home.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 1,
+        "sec": 7
+    },
+    {
+        "question": "He ____ a teacher.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 0,
+        "sec": 10
+    },
+    {
+        "question": "I ____ from Japan.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 2,
+        "sec": 10
+    },
+    {
+        "question": "We ____ good students.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 1,
+        "sec": 15
+    },
+    {
+        "question": "She ____ her homework.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 0,
+        "sec": 10
+    },
+    {
+        "question": "They ____ watching TV.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 1,
+        "sec": 15
+    },
+    {
+        "question": "He ____ at the park.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 0,
+        "sec": 6
+    },
+    {
+        "question": "We ____ in the same class.",
+        "options": ["is", "are", "am", "be"],
+        "correct": 1,
+        "sec": 15
+    }
+]

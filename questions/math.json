@@ -1,0 +1,68 @@
+[
+    {
+        "question": "What is the square root of 16?",
+        "options": ["2", "4", "8", "16"],
+        "correct": 1,
+        "sec": 10
+    },
+    {
+        "question": "Solve for x: 2x + 5 = 15",
+        "options": ["5", "7", "10", "15"],
+        "correct": 0,
+        "sec": 4
+    },
+    {
+        "question": "What is 3 times 4?",
+        "options": ["6", "8", "10", "12"],
+        "correct": 3,
+        "sec": 15
+    },
+    {
+        "question": "What is 20 divided by 4?",
+        "options": ["2", "4", "5", "6"],
+        "correct": 2,
+        "sec": 1
+    },
+    {
+        "question": "If a square has a side length of 6 cm, what is its area?",
+        "options": ["12 cm²", "24 cm²", "36 cm²", "48 cm²"],
+        "correct": 2,
+        "sec": 10
+    },
+    {
+        "question": "What is the value of pi (π) to two decimal places?",
+        "options": ["3.14", "3.16", "3.18", "3.20"],
+        "correct": 0,
+        "sec": 5
+    },
+    {
+        "question": "If a triangle has sides of lengths 3 cm, 4 cm, and 5 cm, what type of triangle is it?",
+        "options": ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
+        "correct": 3,
+        "sec": 20
+    },
+    {
+        "question": "What is the sum of angles in a triangle?",
+        "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+        "correct": 1,
+        "sec": 7
+    },
+    {
+        "question": "If a rectangle has length 8 cm and width 5 cm, what is its perimeter?",
+        "options": ["13 cm", "18 cm", "26 cm", "40 cm"],
+        "correct": 2,
+        "sec": 10
+    },
+    {
+        "question": "If a circle has radius 5 cm, what is its circumference? (Use π = 3.14)",
+        "options": ["10 cm", "15.7 cm", "31.4 cm", "78.5 cm"],
+        "correct": 2,
+        "sec": 10
+    },
+    {
+        "question": "What is 7 to the power of 3?",
+        "options": ["21", "49", "343", "1029"],
+        "correct": 2,
+        "sec": 15
+    }
+]
